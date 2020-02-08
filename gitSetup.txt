@@ -1,0 +1,37 @@
+This is a quick reference for git installation,configuration and setup repository. This page assumes the reader is familiar with git concept. Please watch the following video for a crash course on git.
+< .. > indicates the text inside can be customized.
+
+https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=641s
+
+Install on a linux system:
+    sudo yum install git -y
+
+Check git is installed
+    git --version 
+
+Configure git with relevant information
+    git config --global user.name "<your name>"
+    git config --global user.email "<your email>"
+
+Create a directory for git tracking
+    mkdir <GIT>
+
+Initialize the Directory for git tracking
+    cd <GIT>
+    git init .
+
+Add to remote repos
+    git add remote
+
+Clone a remote repository
+    git clone <repo name>
+
+Set up ssh key so that user name and password is not required
+    ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+Copy the ssh.pub to ssh keys in git
+
+
+
+    
+
