@@ -39,3 +39,8 @@ Set up remote repository then push the local
     git remote add origin git@github.com:<mmrahmanATbama>/<test.git>
     git push -u origin master
 
+Push to a branch
+    git add -A
+    git commit -m "<BranchName>: message"
+    git pull origin master
+    git push
