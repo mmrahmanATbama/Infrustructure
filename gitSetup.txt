@@ -32,6 +32,10 @@ Set up ssh key so that user name and password is not required
 Copy the ssh.pub to ssh keys in git
 
 
-
-    
+Set up remote repository then push the local
+    git init
+    git add -A 
+    git commit -m "first commit"
+    git remote add origin git@github.com:<mmrahmanATbama>/<test.git>
+    git push -u origin master
 
