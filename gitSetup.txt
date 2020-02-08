@@ -1,7 +1,12 @@
-This is a quick reference for git installation,configuration and setup repository. This page assumes the reader is familiar with git concept. Please watch the following video for a crash course on git.
-< .. > indicates the text inside can be customized.
+This is a quick reference for git installation,configuration and setup repository. 
+This page assumes the reader is familiar with git concept. 
+Please watch the following video for a crash course on git.
 
 https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=641s
+
+< .. > indicates the text inside can be customized.
+
+
 
 Install on a linux system:
     sudo yum install git -y
