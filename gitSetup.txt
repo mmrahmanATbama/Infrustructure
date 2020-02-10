@@ -2,7 +2,8 @@ This is a quick reference for git installation,configuration and setup repositor
 This page assumes the reader is familiar with git concept. 
 Please watch the following video for a crash course on git.
 
-https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=641s
+https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=641s  -> you tube video
+https://git-scm.com/book/en/v2 -> a must read git book
 
 < .. > indicates the text inside can be customized.
 
